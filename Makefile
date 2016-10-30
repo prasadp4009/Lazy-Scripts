@@ -1,7 +1,5 @@
 # @Author: Pandit Prasad
 # @Date:   20-Jul-2016
-# @Email:  ppandit@qti.qualcomm.com
-# @Project: Lithium Hawkeye
 # @Last modified by:   Prasad Pandit
 # @Last modified time: 29-Oct-2016
 
